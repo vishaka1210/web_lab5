@@ -1,0 +1,26 @@
+vtu {
+    display:table;
+    margin: 20px 20px 20px 20px;
+    border: solid 1px;
+}
+heading {
+    display:table-row;
+}
+USN,Name,Yoj,Branch,Email,College {
+    display:table-cell;
+    color: black;
+    padding: 10px;
+    border-bottom: solid 1px;
+    border-left: solid 1px;
+    font-weight: bold;
+}
+student {
+    display:table-row;    
+}
+usn,name,yoj,branch,email,college {
+    display:table-cell;
+    color: black;
+    padding: 10px;
+    border-left: solid 1px;
+    border-bottom: solid 1px;
+}
